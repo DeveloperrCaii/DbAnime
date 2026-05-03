@@ -3547,5 +3547,34 @@
       }
     ],
     "id": "71"
+  },
+  {
+    "title": "Shingeki no Kyojin Movie: Kanketsu-hen – The Last Attack",
+    "cover": "https://alqanime.net/wp-content/uploads/2025/04/Shingeki-no-Kyojin-Movie-Kanketsu-hen-The-Last-Attack-200x300.jpg",
+    "synopsis": "Film kompilasi untuk Shingeki no Kyojin: Musim Terakhir – Kanketsu-hen.",
+    "genre": [
+      "Action",
+      "Drama",
+      "Gore",
+      "Military",
+      "Shounen",
+      "Survival",
+      "Suspense",
+      "Movie"
+    ],
+    "studio": "MAPPA",
+    "rating": 8.83,
+    "views": "1,5M",
+    "latestEpisode": 1,
+    "uploadDate": "2025-04-21",
+    "isTrending": false,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Shingeki no Kyojin Movie: Kanketsu-hen – The Last Attack Eps1 (End)",
+        "videoUrl": "https://drive.google.com/file/d/1ehT9UFAux-faUSYsCmVtJsO2NAo1qYEj/view?usp=drivesdk"
+      }
+    ],
+    "id": "72"
   }
 ]

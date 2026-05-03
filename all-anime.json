@@ -3016,8 +3016,8 @@
     "studio": "Zexcs",
     "rating": 8.1,
     "views": "237,5K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-25",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
@@ -3041,6 +3041,11 @@
         "number": 4,
         "title": "Akane-banashi Eps4",
         "videoUrl": "https://drive.google.com/file/d/19ac-TMmfZsu8wRqOdMChNfYn6H4fdb6K/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Akane-banashi Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1p2cJ2xA0eiBw_kWsn5GUSijokpFBiQrI/view?usp=drivesdk"
       }
     ],
     "id": "60"

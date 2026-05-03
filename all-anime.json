@@ -1036,26 +1036,31 @@
     "studio": "LIDENFILMS",
     "rating": 7.2,
     "views": "729,0K",
-    "latestEpisode": 3,
-    "uploadDate": "2026-04-27",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-04",
     "scheduleDay": "Senin",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Kuroneko to Majo no Kyoushitsu Eps1",
         "videoUrl": "https://drive.google.com/file/d/1BEL8vT8hD01XvpB4AFff3G2tn8PBtj-u/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Kuroneko to Majo no Kyoushitsu Eps2",
         "videoUrl": "https://drive.google.com/file/d/1pi-ojJMQcQ4GnhAe3vB9_Nhxnz2Q3lXK/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Kuroneko to Majo no Kyoushitsu Eps3",
         "videoUrl": "https://drive.google.com/file/d/1H0cRgww5DQ7jJuJYKV_rkWIEnsTqyy8X/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Kuroneko to Majo no Kyoushitsu Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1Gen29lXqYH_6hZcNaG8aOm2khxx4uaaH/view?usp=drivesdk"
       }
     ],
     "id": "20"

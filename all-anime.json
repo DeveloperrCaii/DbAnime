@@ -3288,5 +3288,29 @@
       }
     ],
     "id": "65"
+  },
+  {
+    "title": "Mairimashita! Iruma-kun Season 4",
+    "cover": "https://lan.png",
+    "synopsis": "Oakak",
+    "genre": [
+      "Action"
+    ],
+    "studio": "Mmha",
+    "rating": 8.6,
+    "views": "7,5K",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-02",
+    "scheduleDay": "Sabtu",
+    "scheduleStatus": "Sudah Tayang",
+    "isTrending": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Eps1 ",
+        "videoUrl": "https://nopng-apk.png"
+      }
+    ],
+    "id": "66"
   }
 ]

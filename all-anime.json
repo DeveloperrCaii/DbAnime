@@ -669,31 +669,36 @@
     "studio": "Juvenage",
     "rating": 7.2,
     "views": "1,3M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-02",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps1",
         "videoUrl": "https://drive.google.com/file/d/1g3qyLJgsghfU2vPFhr0wKmhWxce8o8MH/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps2",
         "videoUrl": "https://drive.google.com/file/d/1-5XACvVso2ufvY13nLOheERyPeVBJ0ah/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps3",
         "videoUrl": "https://drive.google.com/file/d/1tduI4OTzyB0G1jIMbQiYhgtfLY7ZYFsA/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps4",
         "videoUrl": "https://drive.google.com/file/d/1TBrj2_YZ2KVmRnDmdLuWTX72bMgFx5d_/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1oNICySXoeYQR2GeoneaLCSM-HmCrID9O/view?usp=drivesdk"
       }
     ],
     "id": "15"

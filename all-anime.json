@@ -468,26 +468,31 @@
     "studio": "PRA",
     "rating": 6.59,
     "views": "301,2K",
-    "latestEpisode": 3,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-02",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Ichijouma Mankitsugurashi! Eps1",
         "videoUrl": "https://drive.google.com/file/d/14uyLfiMZvoBmXbeMfXXCwDGQYg3iuKfw/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Ichijouma Mankitsugurashi! Eps2",
         "videoUrl": "https://drive.google.com/file/d/1bZ8oHde1O84x1Dh_j5C97pgC6wVvNHYy/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Ichijouma Mankitsugurashi! Eps3",
         "videoUrl": "https://drive.google.com/file/d/1u22N16LPa6n8mz0eUFNkEKgNQu4pQQjU/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Ichijouma Mankitsugurashi! Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1-Jf8QR8zg_ZNYR4GwsjC9MsJfGP0vR5a/view?usp=drivesdk"
       }
     ],
     "id": "10"

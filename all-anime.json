@@ -255,31 +255,36 @@
     "studio": "Studio Kafka",
     "rating": 7.4,
     "views": "713,3K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Nippon Sangoku Eps1",
         "videoUrl": "https://drive.google.com/file/d/14b9gZv-Ewv3USsyuJvXjnd1twUetoMhX/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Nippon Sangoku Eps2",
         "videoUrl": "https://drive.google.com/file/d/1LzWkYefRun6jmzBmbLvQ5VFURiU55BFx/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Nippon Sangoku Eps3",
         "videoUrl": "https://drive.google.com/file/d/13C2_65aDdxJIaoAZbfLoI_MMLFn8OcRV/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Nippon Sangoku Eps4",
         "videoUrl": "https://drive.google.com/file/d/1tO1YKFYJJJW6SfeKFjnib5Bt6ts0mQTk/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Nippon Sangoku Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1wtjIFV-86qjGB5edTIXB7b7X15lSyi-O/view?usp=drivesdk"
       }
     ],
     "id": "5"

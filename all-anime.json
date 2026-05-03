@@ -210,36 +210,41 @@
     "studio": "Magic Bus, EMT Squared",
     "rating": 6.66,
     "views": "452,2K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-04-27",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Maid-san wa Taberu dake Eps1",
         "videoUrl": "https://drive.google.com/file/d/13up8ls-ekmfxi-ypDcMuSvNb981xSlJb/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Maid-san wa Taberu dake Eps2",
         "videoUrl": "https://drive.google.com/file/d/10UYb_CVLZKQrosFrPaMOTPoyzZloSto_/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Maid-san wa Taberu dake Eps3",
         "videoUrl": "https://drive.google.com/file/d/1SYKdSrTSsTCln77YJ-TE_FBc4FT3XNQr/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Maid-san wa Taberu dake Eps4",
         "videoUrl": "https://drive.google.com/file/d/1zOSD9maER5u1C6tj_0vMl1q9_KJVY5Ul/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Maid-san wa Taberu dake Eps5",
         "videoUrl": "https://drive.google.com/file/d/1rY_Tj4-SNmiTKPNNMIgDqJVQrd1fG2WS/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Maid-san wa Taberu dake Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1AD5uoVT9srHg3nEONR9_c3RkypkvVi30/view?usp=drivesdk"
       }
     ],
     "id": "4"

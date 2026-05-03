@@ -1073,31 +1073,36 @@
     "studio": "ENGI",
     "rating": 6.04,
     "views": "431,4K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-27",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-04",
     "scheduleDay": "Senin",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Ghost Concert: Missing Songs Eps1",
         "videoUrl": "https://drive.google.com/file/d/1n3Z30VLRO6g4EMTYWqQ2UsNsjBhYnZr_/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Ghost Concert: Missing Songs Eps2",
         "videoUrl": "https://drive.google.com/file/d/12Pqg2L79Wbj7ZcxNYFqgynbQc2mJb2yc/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Ghost Concert: Missing Songs Eps3",
         "videoUrl": "https://drive.google.com/file/d/1hu_L4nH4JqB90L8sXf6bRkTB4ZqBsa5S/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Ghost Concert: Missing Songs Eps4",
         "videoUrl": "https://drive.google.com/file/d/17PpVc_Z3BKZczapZMliiOs2XmsBRIiJX/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Ghost Concert: Missing Songs Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1qNc_Bq__267dshVbyv2mSC6LJ8nZO4Sw/view?usp=drivesdk"
       }
     ],
     "id": "21"

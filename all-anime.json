@@ -301,26 +301,31 @@
     "studio": "SILVER LINK.",
     "rating": 7.6,
     "views": "1,1M",
-    "latestEpisode": 3,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Yozakura-san Chi no Daisakusen Season 2 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1vXiPoBPwhLycLrf-c2crbuJ0-o7LCffM/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Yozakura-san Chi no Daisakusen Season 2 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1-93ygGiBhbytClgHPzKMlS56CSNIaolE/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Yozakura-san Chi no Daisakusen Season 2 Eps3",
         "videoUrl": "https://drive.google.com/file/d/10gtIdkMkiAuxVLQck-b2_gADxSFSW5Ll/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Yozakura-san Chi no Daisakusen Season 2 Eps4",
+        "videoUrl": "https://drive.google.com/file/d/100cvO652elWIKY_4xvlenwrsrEsjneOt/view?usp=drivesdk"
       }
     ],
     "id": "6"

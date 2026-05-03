@@ -3241,5 +3241,52 @@
       }
     ],
     "id": "64"
+  },
+  {
+    "title": "Mairimashita! Iruma-kun Season 4",
+    "cover": "https://alqanime.net/wp-content/uploads/2026/04/Mairimashita-Iruma-kun-4th-Season-200x300.jpg",
+    "synopsis": "Musim keempat ini akan menceritakan Iruma dan teman-teman kelasnya yang mengikuti festival musik.",
+    "genre": [
+      "Fantasy",
+      "Shounen",
+      "School",
+      "Comedy"
+    ],
+    "studio": "Bandai Namco Pictures",
+    "rating": 7.33,
+    "views": "833,7K",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-02",
+    "scheduleDay": "Sabtu",
+    "scheduleStatus": "Sudah Tayang",
+    "isTrending": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps1",
+        "videoUrl": "https://drive.google.com/file/d/1rgRCYAtxO4gjZBqBIY2tNKh5fZOxF2Px/view?usp=drivesdk"
+      },
+      {
+        "number": 2,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps2",
+        "videoUrl": "https://drive.google.com/file/d/1CX-lwd7ThXV9t88UfmfgDMdAl2sUx1nU/view?usp=drivesdk"
+      },
+      {
+        "number": 3,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps3",
+        "videoUrl": "https://drive.google.com/file/d/19tU3UTKqps3Y_vanybsqNCeF9ZM2aDnv/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1Z6RgtR-8HrRS-fFtwsPN2kGFvLqu401P/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1Q2i0zdIaYtrLy1aGtZLgpnl2MwANgI2J/view?usp=drivesdk"
+      }
+    ],
+    "id": "65"
   }
 ]

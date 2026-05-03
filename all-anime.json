@@ -383,46 +383,51 @@
     "studio": "SANZIGEN",
     "rating": 6.79,
     "views": "1,4M",
-    "latestEpisode": 7,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 8,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Niwatori Fighter Eps1",
         "videoUrl": "https://drive.google.com/file/d/1TFjgLvRtZdZoH3enxgah2VSSpXy61YbM/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Niwatori Fighter Eps2",
         "videoUrl": "https://drive.google.com/file/d/1ltSckFqpiugMy30okb4B_FtpW7j1NS6Y/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Niwatori Fighter Eps3",
         "videoUrl": "https://drive.google.com/file/d/1Kl6UwsmO8u8vNZwplW5NvqwZMVxHN9b3/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Niwatori Fighter Eps4",
         "videoUrl": "https://drive.google.com/file/d/1419cmz1FDQhe4TMyJIQ1elvVtZZowZMb/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Niwatori Fighter Eps5",
         "videoUrl": "https://drive.google.com/file/d/1Ci0MuBNkH-9O3D606RP9c7qhOU_NgKn5/view?usp=drivesdk"
       },
       {
         "number": 6,
-        "title": "Eps6",
+        "title": "Niwatori Fighter Eps6",
         "videoUrl": "https://drive.google.com/file/d/10Q3OmaOdkzGCbX8e4sTPhSzcnouhD8GO/view?usp=drivesdk"
       },
       {
         "number": 7,
-        "title": "Eps7",
+        "title": "Niwatori Fighter Eps7",
         "videoUrl": "https://drive.google.com/file/d/16vWMGbyUZ5368klp5YTcV0z10VrmLe3x/view?usp=drivesdk"
+      },
+      {
+        "number": 8,
+        "title": "Niwatori Fighter Eps8",
+        "videoUrl": "https://drive.google.com/file/d/16vc7SmOxgLk1ilglumKZmZZiExix1esW/view?usp=drivesdk"
       }
     ],
     "id": "8"

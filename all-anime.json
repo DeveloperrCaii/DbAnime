@@ -629,31 +629,36 @@
     "studio": "Yostar Pictures",
     "rating": 7.01,
     "views": "356,4K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Needy Girl Overdose Eps1",
         "videoUrl": "https://drive.google.com/file/d/1_nxiOKnckpsxzkfvBnHwI87HpcuYeUXx/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Needy Girl Overdose Eps2",
         "videoUrl": "https://drive.google.com/file/d/1L7URLqNaLCouRMfXQkA64qRTa7eM8GZi/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Needy Girl Overdose Eps3",
         "videoUrl": "https://drive.google.com/file/d/1qZEnwDsEILtGDISG6CdcH1ew3ag-fU6C/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Needy Girl Overdose Eps4",
         "videoUrl": "https://drive.google.com/file/d/1bG5ofJacwcWTy2V6zm4hYb53_Y4zpSAi/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Needy Girl Overdose Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1aDkVXE0xDNkQI1vzhp6argnYgwRi9GyQ/view?usp=drivesdk"
       }
     ],
     "id": "13"

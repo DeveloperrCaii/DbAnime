@@ -651,26 +651,31 @@
     "studio": "Cue",
     "rating": 7.1,
     "views": "853,9K",
-    "latestEpisode": 3,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Kill Ao Eps1",
         "videoUrl": "https://drive.google.com/file/d/1Tmn0jLCZIERYbXjg4yW8DDiMnFh7PmVc/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Kill Ao Eps2",
         "videoUrl": "https://drive.google.com/file/d/1q9boGYzP5cP9NZCoRQpsuZ25ETEiGOwz/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Kill Ao Eps3",
         "videoUrl": "https://drive.google.com/file/d/1Vnt9nVi6tSi1PE_oReeZIMrDZB0plMQL/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Kill Ao Eps4",
+        "videoUrl": "https://drive.google.com/file/d/12_8tFOVW7iL3hlNwrCDuDvijgm-w6Un0/view?usp=drivesdk"
       }
     ],
     "id": "14"

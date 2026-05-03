@@ -742,57 +742,55 @@
     "views": "407,1K",
     "latestEpisode": 9,
     "uploadDate": "2026-03-22",
-    "scheduleDay": "Minggu",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Medalist season 2 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1dqdWsJdJaLBjRzNOBp_Mkn6tu7yJc6sO/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Medalist season 2 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1u5gpy3wzXjG9X9Kb3Ce1dibig2EuRI9b/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Medalist season 2 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1pAD-Sw_pisnLlJ8OakfUgbzqdv6JDRDo/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Medalist season 2 Eps4",
         "videoUrl": "https://drive.google.com/file/d/1UKDghJSavZdnd7dr4yunTCrH8WOQcifb/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Medalist season 2 Eps5",
         "videoUrl": "https://drive.google.com/file/d/1eEU3lcNwrZhMeLchlCNizSH0XoIJ9gAB/view?usp=drivesdk"
       },
       {
         "number": 6,
-        "title": "Eps6",
+        "title": "Medalist season 2 Eps6",
         "videoUrl": "https://drive.google.com/file/d/1J462ru5jX7kxhGxNyI2N1cRnozFzxjjv/view?usp=drivesdk"
       },
       {
         "number": 7,
-        "title": "Eps7",
+        "title": "Medalist season 2 Eps7",
         "videoUrl": "https://drive.google.com/file/d/153LVplo2pGNOWc5WcWQloc7Mh6pvCzNO/view?usp=drivesdk"
       },
       {
         "number": 8,
-        "title": "Eps8",
+        "title": "Medalist season 2 Eps8",
         "videoUrl": "https://drive.google.com/file/d/15YvLHCfTxylzqG0GTpj7l88W38NoMMrW/view?usp=drivesdk"
       },
       {
         "number": 9,
-        "title": "Eps9 (End)",
+        "title": "Medalist season 2 Eps9 (End)",
         "videoUrl": "https://drive.google.com/file/d/1MhGix92E-01GN90ewjJouu6hgT3zDf09/view?usp=drivesdk"
       }
     ],
-    "id": "16",
-    "scheduleStatus": "Menunggu Update"
+    "id": "16"
   },
   {
     "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",

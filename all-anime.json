@@ -3288,5 +3288,46 @@
       }
     ],
     "id": "65"
+  },
+  {
+    "title": "Honzuki no Gekokujou Season 4",
+    "cover": "https://alqanime.net/wp-content/uploads/2026/04/Honzuki-no-Gekokujou-Shisho-ni-Naru-Tame-ni-wa-Shudan-wo-Erandeiraremasen-Ryoushu-no-Youjo-200x300.jpg",
+    "synopsis": "Musim ke-empat dari seris anime Honzuki no Gekokujou",
+    "genre": [
+      "Fantasy",
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studio": "Wit Studio",
+    "rating": 7.39,
+    "views": "424,0K",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-02",
+    "scheduleDay": "Sabtu",
+    "scheduleStatus": "Menunggu Update",
+    "isTrending": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Eps1",
+        "videoUrl": "https://drive.google.com/file/d/1SGhScKeafZKn6-EmrTBfHt6Fq4g8kCbh/view?usp=drivesdk"
+      },
+      {
+        "number": 2,
+        "title": "Eps2",
+        "videoUrl": "https://drive.google.com/file/d/1bgoWEDIgnp-kfpR4rTnD-73_ljJZEbDX/view?usp=drivesdk"
+      },
+      {
+        "number": 3,
+        "title": "Eps3",
+        "videoUrl": "https://drive.google.com/file/d/1Xm48dTPzL59MDrreVrz53Ky5mZFZuoCF/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1oSrt7Egm6UaHCGo8E8fz--2lrLujzwrz/view?usp=drivesdk"
+      }
+    ],
+    "id": "66"
   }
 ]

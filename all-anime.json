@@ -424,36 +424,41 @@
     "studio": "Woy Studio",
     "rating": 7.64,
     "views": "604,1K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-04-26",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-03",
     "scheduleDay": "Minggu",
     "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps1",
         "videoUrl": "https://drive.google.com/file/d/1EbR_dnpNa0BfMRb2V3AntT8Q_bLiQ7LH/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps2",
         "videoUrl": "https://drive.google.com/file/d/1lUkrlIabP8vbDGWkp1SyCEvNWkH8g5hm/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps3",
         "videoUrl": "https://drive.google.com/file/d/1Oh9h6cOQrTH1PSK0z3FnztPHP-6bVbpr/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps4",
         "videoUrl": "https://drive.google.com/file/d/1dDGvuJmF46045soDLPmRxextIr0Q2mQn/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps5",
         "videoUrl": "https://drive.google.com/file/d/1s9HP6zFs2zWq-6b7DJHXHTMlyyn3ku29/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Shunkashuutou Daikousha Haru: no Mai Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1dshOUbdPDuyz6r0ZnFNqejFcWseagts-/view?usp=drivesdk"
       }
     ],
     "id": "9"

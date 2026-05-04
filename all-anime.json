@@ -1455,31 +1455,36 @@
     "studio": "Zero-G",
     "rating": 7.39,
     "views": "572,8K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-28",
-    "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-05",
+    "scheduleDay": "Minggu",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi Eps1",
         "videoUrl": "https://drive.google.com/file/d/1xyrIKMnJyEtJ9W79_AjQpDuA5jk9tQ5Q/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi Eps2",
         "videoUrl": "https://drive.google.com/file/d/1xvyMS0gzaELaz6JOACr4c9oRS4K0U3oO/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi Eps3",
         "videoUrl": "https://drive.google.com/file/d/1gEIVScURw4HTQ-cyyIJsxdSgT9MUDnD-/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi Eps4",
         "videoUrl": "https://drive.google.com/file/d/1_F85bK3pvJVO9yp9wGICkL5UPFjLarqI/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1HRTJLKA3EzpukZEex1-_DFF82a3awL9R/view?usp=drivesdk"
       }
     ],
     "id": "29"

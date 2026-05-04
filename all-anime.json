@@ -1408,36 +1408,41 @@
     "studio": "BUG FILMS",
     "rating": 8.32,
     "views": "1,2M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-04-28",
-    "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-05",
+    "scheduleDay": "Senin",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Tongari Boushi no Atelier Eps1",
         "videoUrl": "https://drive.google.com/file/d/1KmU2ar3lMgMHYsRZROwETkRAHzcm87Kq/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Tongari Boushi no Atelier Eps2",
         "videoUrl": "https://drive.google.com/file/d/1UqpWHzmOegL3NuWSnMfw1YNnfv6Xwuby/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Tongari Boushi no Atelier Eps3",
         "videoUrl": "https://drive.google.com/file/d/11lknu76Y3S-rByErucwaZvyRa1D-lmN1/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Tongari Boushi no Atelier Eps4",
         "videoUrl": "https://drive.google.com/file/d/14ORAd8CXFAXNzzNgDBTPhPpTY2eDZzy3/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Tongari Boushi no Atelier Eps5",
         "videoUrl": "https://drive.google.com/file/d/1jurLUVax25BCftMYk8DJiCVPvYGAe_5i/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Tongari Boushi no Atelier Eps6",
+        "videoUrl": "https://drive.google.com/file/d/19XowoX_ge1pwv2_qBI6s_LcnLuf9rJKu/view?usp=drivesdk"
       }
     ],
     "id": "28"

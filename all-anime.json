@@ -11,31 +11,36 @@
     "studio": "Madhouse",
     "rating": 6.91,
     "views": "7,5K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-07",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-05",
     "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Pertemuan",
+        "title": "Liar Game Eps1",
         "videoUrl": "https://files.catbox.moe/4r35od.mkv"
       },
       {
         "number": 2,
-        "title": "Babak Pertama",
+        "title": "Liar Game Eps2",
         "videoUrl": "https://files.catbox.moe/dpwe2u.mp4"
       },
       {
         "number": 3,
-        "title": "Kecurangan",
+        "title": "Liar Game Eps3",
         "videoUrl": "https://files.catbox.moe/ir26r8.mkv"
       },
       {
         "number": 4,
-        "title": "Kekalahan",
+        "title": "Liar Game Eps4",
         "videoUrl": "https://files.catbox.moe/3vxfot.mkv"
+      },
+      {
+        "number": 5,
+        "title": "Liar Game Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1FrThaiV9oUQRgUvz9xJzGEtbyolJClwB/view?usp=drivesdk"
       }
     ],
     "id": "1"

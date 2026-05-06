@@ -3878,5 +3878,32 @@
       }
     ],
     "id": "81"
+  },
+  {
+    "title": "One Piece: Heart of Gold",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrk26Agjtc5RWkPYuNrOZUecVVb_DVPEPNAgLk1pcUvw&s=10",
+    "synopsis": "Seorang gadis bernama Olga dikejar oleh Pemerintah Dunia dan seorang pria bernama Mad Treasure, karena dialah satu-satunya yang mengetahui lokasi Emas Murni, zat yang dapat membeli seluruh dunia. Olga akhirnya berlayar bersama Bajak Laut Topi Jerami, dan mereka melakukan perjalanan untuk menemukan Emas Murni di pulau Alchemi yang hilang, yang terletak di dalam perut ikan angler besar bernama Bonbori.",
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Adventure",
+      "Shounen"
+    ],
+    "studio": "Toei Animation",
+    "rating": 7.48,
+    "views": "250,0K",
+    "latestEpisode": 1,
+    "uploadDate": "2016-07-16",
+    "isTrending": false,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "One Piece: Heart of Gold Eps1 (End)",
+        "videoUrl": "https://drive.google.com/file/d/1BvlW-Fnf47NgOChZcdS_g7Pujq4SBW-B/view?usp=drivesdk"
+      }
+    ],
+    "id": "82"
   }
 ]

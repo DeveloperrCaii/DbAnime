@@ -1212,31 +1212,36 @@
     "studio": "Connect",
     "rating": 7.6,
     "views": "1,6M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-28",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-05",
     "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Eps1",
         "videoUrl": "https://drive.google.com/file/d/1ecksYv08h8BEAOHKjmccNPWla57-wEPk/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Eps2",
         "videoUrl": "https://drive.google.com/file/d/1HxVpF3VqY_Yx-IIIf7mMmd9IvoOd_gwE/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Eps3",
         "videoUrl": "https://drive.google.com/file/d/1MrXv8FUNSVIaJzTOaERO5xfHjHvBIX_B/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Eps4",
         "videoUrl": "https://drive.google.com/file/d/1-sqJu1FhTu5rW432Swp9y_Ei4meE-WBA/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1mEbmm0yNLiW4Ek2DTkhOAjfoEbhl2VNa/view?usp=drivesdk"
       }
     ],
     "id": "23"

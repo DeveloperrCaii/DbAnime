@@ -3936,5 +3936,29 @@
       }
     ],
     "id": "82"
+  },
+  {
+    "title": "Hellfire (2026)",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNCmLU5J9HWvLoiWDO0wOFkBk3UuF3NLueFEhJ7NvLQ&s=10",
+    "synopsis": "Di film Hellfire (2026), seorang petualang misterius tiba di kota kecil yang dikuasai oleh bos kejam. Ia kemudian memutuskan untuk melawan bos tersebut dan membebaskan warga dari cengkeramannya. Aksi penuh adrenalin dan ketegangan menghadang, membuat penonton penasaran dengan nasib kota dan sang pahlawan. Apakah petualang tersebut berhasil membebaskan kota?",
+    "genre": [
+      "Action",
+      "Thriller",
+      "Movie"
+    ],
+    "studio": "Sabana Films",
+    "rating": 7,
+    "views": "1,6M",
+    "latestEpisode": 1,
+    "uploadDate": "2026-02-05",
+    "isTrending": false,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Hellfire (2026) Eps1 (End)",
+        "videoUrl": "https://drive.google.com/file/d/1UUAnOvLulGOgmN0Ozvlv3wSMqsUm1RE2/view?usp=drivesdk"
+      }
+    ],
+    "id": "83"
   }
 ]

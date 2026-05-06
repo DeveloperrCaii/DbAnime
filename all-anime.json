@@ -1331,31 +1331,36 @@
     "studio": "Bones Film",
     "rating": 7.44,
     "views": "861,7K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-28",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-05",
     "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Marriagetoxin Eps1",
         "videoUrl": "https://drive.google.com/file/d/1RIz2AXGeR-QJdp3Rwl2tgMUXZ4AuQaNx/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Marriagetoxin Eps2",
         "videoUrl": "https://drive.google.com/file/d/1Ye6SeTXXyuV9kSSGwVSQuVQVQSXaKyqP/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Marriagetoxin Eps3",
         "videoUrl": "https://drive.google.com/file/d/1-eYZNGB3zpUohBm9uyM2Gh2eYBAzFL13/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Marriagetoxin Eps4",
         "videoUrl": "https://drive.google.com/file/d/1SPqVn6gI7Jc6umuMyekLWslQA5G9ZsnX/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Marriagetoxin Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1IkZ4w3GqhZ7sTByFKdCZMQGnPqfzhdYp/view?usp=drivesdk"
       }
     ],
     "id": "26"

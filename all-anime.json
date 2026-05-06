@@ -1258,26 +1258,31 @@
     "studio": "Felix Film",
     "rating": 7.01,
     "views": "650,1K",
-    "latestEpisode": 3,
-    "uploadDate": "2026-04-28",
-    "scheduleDay": "Selasa",
-    "scheduleStatus": "Menunggu Update",
+    "latestEpisode": 4,
+    "uploadDate": "2026-05-06",
+    "scheduleDay": "Rabu",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Aishiteru Game wo Owarasetai Eps1",
         "videoUrl": "https://drive.google.com/file/d/1GTbY1EDy1gA0PVGjhz3I0wmh4-fz-sYb/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Aishiteru Game wo Owarasetai Eps2",
         "videoUrl": "https://drive.google.com/file/d/1ezaqO2i-ELZRcZz7CpROILx6ak9Cty2Q/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Aishiteru Game wo Owarasetai Eps3",
         "videoUrl": "https://drive.google.com/file/d/1LO5jMP3V6ucdzYZxUPWt2Uo3zAqre-cP/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Aishiteru Game wo Owarasetai Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1LgoxuSlL_wBKmKvfvjYHzarggB-WTKFr/view?usp=drivesdk"
       }
     ],
     "id": "24"

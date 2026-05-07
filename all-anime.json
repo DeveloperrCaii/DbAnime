@@ -2237,31 +2237,36 @@
     "studio": "Jumondou",
     "rating": 6.97,
     "views": "1,6M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-30",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-07",
     "scheduleDay": "Kamis",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Himekishi wa Barbaroi no Yome Eps1",
         "videoUrl": "https://drive.google.com/file/d/1jwIZirpJcpW2IYTtxct3NHO0pBDpMn6B/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Himekishi wa Barbaroi no Yome Eps2",
         "videoUrl": "https://drive.google.com/file/d/1YGHqtRmVuEAzf3qwt8ZXodkUnW7wlNqp/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Himekishi wa Barbaroi no Yome Eps3",
         "videoUrl": "https://drive.google.com/file/d/1L8a5ukDP0gAc630dTuMnTmAVZekJn7fu/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Himekishi wa Barbaroi no Yome Eps4",
         "videoUrl": "https://drive.google.com/file/d/1WeWfS0iP39CPo0ukNZPfJDku63e2QzBR/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Himekishi wa Barbaroi no Yome Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1PDFPKqfMQSP-JI8BKgR9SalNIGKFva5s/view?usp=drivesdk"
       }
     ],
     "id": "42"

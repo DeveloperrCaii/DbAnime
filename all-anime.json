@@ -1832,31 +1832,36 @@
     "studio": "TMS Entertainment",
     "rating": 6.28,
     "views": "854,9K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-29",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-06",
     "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Kanojo, Okarishimasu Season 5 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1uKk3aXf2cqNOOEnNzkIxd_urqRXP4a8m/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Kanojo, Okarishimasu Season 5 Eps2",
         "videoUrl": "https://drive.google.com/file/d/17y0zG5X_tBu7S9BIk6SBwdWoMuUi8lsV/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Kanojo, Okarishimasu Season 5 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1RGv2ns7C-8sh2nyoMYodFtEsxdVYcrEM/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Kanojo, Okarishimasu Season 5 Eps4",
         "videoUrl": "https://drive.google.com/file/d/1z8fcbCbQIY2gBEnTPZX2omBEoB0egMws/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Kanojo, Okarishimasu Season 5 Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1CJQgPC5k00ZEH9-8ncUopmhtCZ1VAqfx/view?usp=drivesdk"
       }
     ],
     "id": "35"

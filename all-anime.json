@@ -2326,31 +2326,36 @@
     "studio": "TMS Entertainment",
     "rating": 7.23,
     "views": "1,1M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-30",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-07",
     "scheduleDay": "Kamis",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Otaku ni Yasashii Gal wa Inai!? Eps1",
         "videoUrl": "https://drive.google.com/file/d/17w7h9pyE5Zc60Ksv07ikYjyE740mlaQ7/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Otaku ni Yasashii Gal wa Inai!? Eps2",
         "videoUrl": "https://drive.google.com/file/d/1zIMgzReejnV8OuVgdfAUrMzdWPlhX3Tg/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Otaku ni Yasashii Gal wa Inai!? Eps3",
         "videoUrl": "https://drive.google.com/file/d/1DsBObWrQCEMqF6WTyg1B4VaYzemqXlhr/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Otaku ni Yasashii Gal wa Inai!? Eps4",
         "videoUrl": "https://drive.google.com/file/d/1G9g2GwB_rhq3UK0XwYkxnuSG6ENPYZXu/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Otaku ni Yasashii Gal wa Inai!? Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1z9DnFoL6ukPJGVdnor00TydcnFkNoQIq/view?usp=drivesdk"
       }
     ],
     "id": "44"

@@ -1931,31 +1931,36 @@
     "studio": "Tatsunoko Production",
     "rating": 6.66,
     "views": "404,0K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-29",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-06",
     "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Tadaima, Ojamasaremasu! Eps1",
         "videoUrl": "https://drive.google.com/file/d/1zMclquKTWcjjS3DfsGs2ZFZK1pjGZsaE/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Tadaima, Ojamasaremasu! Eps2",
         "videoUrl": "https://drive.google.com/file/d/1FSRP7WJx3BEd7qBFEHJ1gLwuHpPa2j9K/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Tadaima, Ojamasaremasu! Eps3",
         "videoUrl": "https://drive.google.com/file/d/1Hrk39L037yb0cB_Yfh5dHjYw29luZnwi/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Tadaima, Ojamasaremasu! Eps4",
         "videoUrl": "https://drive.google.com/file/d/1mqcqXVv6AofM7axV6_yied1GyE0fFBen/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Tadaima, Ojamasaremasu! Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1Qc8KwXSEzAO6GSk583dI8yER8MTBighw/view?usp=drivesdk"
       }
     ],
     "id": "37"

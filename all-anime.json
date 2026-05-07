@@ -1764,51 +1764,56 @@
     "studio": "Lerche",
     "rating": 8.29,
     "views": "3,7M",
-    "latestEpisode": 8,
-    "uploadDate": "2026-04-29",
+    "latestEpisode": 9,
+    "uploadDate": "2026-05-06",
     "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps1",
         "videoUrl": "https://drive.google.com/file/d/15QlZg3hbQCF1oZ9yvpg9PSr2kEf_lIsp/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1coQMNt9Uiagx_PySAvm9pSEHiijnGbj2/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1Pd9H5gJF87ARYGBBNZReCsJ7n-NL2mcX/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps4",
         "videoUrl": "https://drive.google.com/file/d/18BfJVvCz_slMDpH2vqeNyU1ErDc432QC/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps5",
         "videoUrl": "https://drive.google.com/file/d/1uj_eQlNOOmr4EU7WkXIXwGnhebl4Qwx4/view?usp=drivesdk"
       },
       {
         "number": 6,
-        "title": "Eps6",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps6",
         "videoUrl": "https://drive.google.com/file/d/1I7HTu1uU5pNhLNf-ALYAnymDTkaltl5x/view?usp=drivesdk"
       },
       {
         "number": 7,
-        "title": "Eps7",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps7",
         "videoUrl": "https://drive.google.com/file/d/1u8h61SH1IuImdjNQqfRApADbS5N0vuSq/view?usp=drivesdk"
       },
       {
         "number": 8,
-        "title": "Eps8",
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps8",
         "videoUrl": "https://drive.google.com/file/d/19nYOQZM1Y-Uaz_P5ia0DYQPnKupvcHd_/view?usp=drivesdk"
+      },
+      {
+        "number": 9,
+        "title": "Yukoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 4 Eps9",
+        "videoUrl": "https://drive.google.com/file/d/1h1Wwb4mRxuRJdAlMc9XBVA3oKDXJ-KZt/view?usp=drivesdk"
       }
     ],
     "id": "34"

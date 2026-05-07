@@ -2278,36 +2278,41 @@
     "studio": "Studio A-CAT",
     "rating": 6.28,
     "views": "2,9M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-04-30",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-07",
     "scheduleDay": "Kamis",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "The Beginning After the End Season 2 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1JwfJv4JT2BW0v8N8mkXNoNIJtUNFXsxo/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "The Beginning After the End Season 2 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1ac_iF8O550Hzq_RUZwkgxFTSKQlErB5z/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "The Beginning After the End Season 2 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1C5hy9Pw3qUWXBESRPnweMouFbq4THHO6/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "The Beginning After the End Season 2 Eps4",
         "videoUrl": "https://drive.google.com/file/d/1TZDXIYQ9iRWXebpXjDWCVy9s1huOwx2u/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "The Beginning After the End Season 2 Eps5",
         "videoUrl": "https://drive.google.com/file/d/1bV-trUX8O1gXNQ_yWmkp9qRbZMHrtFUy/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "The Beginning After the End Season 2 Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1_9VFdSKBjMMvGfUIqdgDBri2meH3tcIe/view?usp=drivesdk"
       }
     ],
     "id": "43"

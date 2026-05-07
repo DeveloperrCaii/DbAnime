@@ -1888,31 +1888,36 @@
     "studio": "Qzil.la, S.o.K",
     "rating": 6.14,
     "views": "1,1M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-29",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-06",
     "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" Eps1",
         "videoUrl": "https://drive.google.com/file/d/1_y_b_9UpPOjK2iZ_LRn7ShwBB0qWdv6Y/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" Eps2",
         "videoUrl": "https://drive.google.com/file/d/1MygCHQ6w7PuvlzF734KlWUPxALAQUbrx/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" Eps3",
         "videoUrl": "https://drive.google.com/file/d/1ssigv9K79cEyoj_BxlcMqwsdZOWckkG9/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" Eps4",
         "videoUrl": "https://drive.google.com/file/d/1sFYlGoATZ2EHUdk-RoWseaGQXbGvmJV3/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1d_njss7rmMPfB30MaG_I2lfzszF2PFPL/view?usp=drivesdk"
       }
     ],
     "id": "36"

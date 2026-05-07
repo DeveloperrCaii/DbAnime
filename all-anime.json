@@ -1537,36 +1537,41 @@
     "studio": "Light Novel",
     "rating": 6.68,
     "views": "472,8K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-04-29",
-    "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-07",
+    "scheduleDay": "Kamis",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1uOytOH8gucQ9s8C7C8t2E2M7yEVFSzN1/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1dr6NAAju4-13MXxFjEnKbPxpBItJeNvs/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1qI-YjC8ctm2zALH9R6uenvPc8u_uXRzl/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps4",
         "videoUrl": "https://drive.google.com/file/d/1p2Waao_JjntYzCNDq3HWKdOdnuXdbiCR/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps5",
         "videoUrl": "https://drive.google.com/file/d/1egffTeSpP5v2cwAFAt62i4lo-JJziKxx/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 3 Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1f1bKR34zQK0Uu8P59v1OEdfcgNfaAjGB/view?usp=drivesdk"
       }
     ],
     "id": "30"

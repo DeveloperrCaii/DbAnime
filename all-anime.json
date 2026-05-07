@@ -1723,31 +1723,36 @@
     "studio": "White Fox",
     "rating": 8.25,
     "views": "917,4K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-04-29",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-06",
     "scheduleDay": "Rabu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu Season 4 Eps1",
         "videoUrl": "https://drive.google.com/file/d/1qdm-QIy9dEEFHKqiH7vXm8lK88IWzenT/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu Season 4 Eps2",
         "videoUrl": "https://drive.google.com/file/d/1zdHa1CEatflAUoa0s-5KJSfmkvE2xl4k/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu Season 4 Eps3",
         "videoUrl": "https://drive.google.com/file/d/1JGxY5zbxHcbMVVq2Yhs8uxhKyDfp8G_8/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu Season 4 Eps4",
         "videoUrl": "https://drive.google.com/file/d/1WDLjcS2_Qv0axCrxcBrKVhCTgpo453n9/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Re Zero kara Hajimeru Isekai Seikatsu Season 4 Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1mcPzBPsfYTNk_wWVNnGBarnC6WKQrT81/view?usp=drivesdk"
       }
     ],
     "id": "33"

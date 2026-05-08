@@ -2979,36 +2979,41 @@
     "studio": "Imageworks Studio, Imagica Infos",
     "rating": 5.13,
     "views": "969,3K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-01",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-08",
     "scheduleDay": "Jumat",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps1",
         "videoUrl": "https://drive.google.com/file/d/11gHIfQcBlc4_IVI0nErWpHX9mflUTaVQ/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps2",
         "videoUrl": "https://drive.google.com/file/d/1oEnglhAG9SG-s5nxWY9mhrte2A1WONqT/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps3",
         "videoUrl": "https://drive.google.com/file/d/1m5eGcY6ITGdaP536LROQ7hGtUbxSGYJS/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps4",
         "videoUrl": "https://drive.google.com/file/d/1oWJtH5pVqax-OXiOq6B2aixerTYAlA_e/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps5",
         "videoUrl": "https://drive.google.com/file/d/1Wje0iaLjHEbg3mlJlt8xlH8mkQcdPTD8/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1PNWuzaph4ofVjxQdvoUztQOidUlojl5C/view?usp=drivesdk"
       }
     ],
     "id": "56"

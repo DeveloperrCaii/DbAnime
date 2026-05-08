@@ -4131,5 +4131,53 @@
       }
     ],
     "id": "84"
+  },
+  {
+    "title": "Hyakki Yakoushou",
+    "cover": "https://alqanime.net/wp-content/uploads/2026/04/Hyakki-Yakoushou-200x300.jpg",
+    "synopsis": "Ritsu Iijima, seorang siswa SMA yang memiliki kekuatan misterius sejak kecil. Kekuatan misterius yang dimiliki Ritsu… adalah kemampuan untuk melihat youma (iblis) yang tidak dapat dilihat oleh orang biasa.\n\nDengan youma perkasa Aoarashi, yang pernah diperintah oleh mendiang kakeknya, Kagyuu Iijima, sebagai dewa pelindungnya, dan ditemani oleh tengu gagak Ojiro dan Oguro, petualangan misterius Ritsu membuatnya bertemu dengan berbagai youma.",
+    "genre": [
+      "Historical",
+      "Horror",
+      "Romance",
+      "Mystery",
+      "Shoujo",
+      "Supernatural"
+    ],
+    "studio": "Imageworks Studio, Imagica Infos",
+    "rating": 8.93,
+    "views": "817,1K",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-05",
+    "scheduleStatus": "Menunggu Update",
+    "isTrending": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Hyakki Yakoushou Eps1",
+        "videoUrl": "https://drive.google.com/file/d/1CLReejTlUV1PfJdXcd8y74e7-4yszzz0/view?usp=drivesdk"
+      },
+      {
+        "number": 2,
+        "title": "Hyakki Yakoushou Eps2",
+        "videoUrl": "https://drive.google.com/file/d/1jlUocQ3hgFtR6LVg5FUXt8PAk8vaFBG5/view?usp=drivesdk"
+      },
+      {
+        "number": 3,
+        "title": "Hyakki Yakoushou Eps3",
+        "videoUrl": "https://drive.google.com/file/d/1uWPCDmlZQ8W5_8yElTNPc82aIeTuaIm3/view?usp=drivesdk"
+      },
+      {
+        "number": 4,
+        "title": "Hyakki Yakoushou Eps4",
+        "videoUrl": "https://drive.google.com/file/d/1Yveprlq7s1x1T36Puagkza921w6JppUc/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Hyakki Yakoushou Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1k-5xNnByOZl_GuWjdR02w52yZbUaYe3C/view?usp=drivesdk"
+      }
+    ],
+    "id": "85"
   }
 ]

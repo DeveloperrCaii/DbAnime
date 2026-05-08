@@ -4179,5 +4179,27 @@
       }
     ],
     "id": "85"
+  },
+  {
+    "title": "Tes server",
+    "cover": "https://im.p",
+    "synopsis": "Gd",
+    "genre": [
+      "Action"
+    ],
+    "studio": "Oo",
+    "rating": 10,
+    "views": "72K",
+    "latestEpisode": 1,
+    "uploadDate": "2026-06-30",
+    "isTrending": true,
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Eps1",
+        "videoUrl": "http://103.126.117.14/video/Yukawa/Alqanime_Yuukawa_01_720p.mp4"
+      }
+    ],
+    "id": "86"
   }
 ]

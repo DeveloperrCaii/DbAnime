@@ -2782,36 +2782,41 @@
     "studio": "Studio Comet",
     "rating": 6.82,
     "views": "1,5M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-01",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-08",
     "scheduleDay": "Jumat",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
         "number": 1,
-        "title": "Eps1",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps1",
         "videoUrl": "https://drive.google.com/file/d/1twCgFUQ4jQJnST__5ZjAdFrHSoulNjwU/view?usp=drivesdk"
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps2",
         "videoUrl": "https://drive.google.com/file/d/1kDL9Uq8hNKcF99uhM2CDCGpnpQmtsXll/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps3",
         "videoUrl": "https://drive.google.com/file/d/1zwEzzNOMoSuoXksi8u6JQ2QRSPGTibGy/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps4",
         "videoUrl": "https://drive.google.com/file/d/1ZVZV9DBlNf-KwdV1-BEW8zSD829qAuty/view?usp=drivesdk"
       },
       {
         "number": 5,
-        "title": "Eps5",
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps5",
         "videoUrl": "https://drive.google.com/file/d/1kPdBZos9nkoz-S3xsHqQDK6NWyqqDEfJ/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Haibara-kun no Tsuyokute Seishun New Game Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1SKIvEC7mwJOS7LPU3zy8z_Uia3NkF750/view?usp=drivesdk"
       }
     ],
     "id": "52"

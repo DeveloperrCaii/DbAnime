@@ -3514,8 +3514,8 @@
     "studio": "Bandai Namco Pictures",
     "rating": 7.33,
     "views": "833,7K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-02",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
@@ -3544,6 +3544,11 @@
         "number": 5,
         "title": "Mairimashita! Iruma-kun Season 4 Eps5",
         "videoUrl": "https://drive.google.com/file/d/1Q2i0zdIaYtrLy1aGtZLgpnl2MwANgI2J/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Mairimashita! Iruma-kun Season 4 Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1WXU_QwVGLi-wa4sdCFJ-a05amkTxamVi/view?usp=drivesdk"
       }
     ],
     "id": "65"

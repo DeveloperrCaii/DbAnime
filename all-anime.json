@@ -600,10 +600,10 @@
     "studio": "Sunrise",
     "rating": 7.18,
     "views": "790,4K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-03",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-10",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -630,6 +630,11 @@
         "number": 5,
         "title": "Mao Eps5",
         "videoUrl": "https://drive.google.com/file/d/1s-9yFDYDVn2S2611llqi3VBKnDP_rqnJ/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Mao Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1v-vTXwe6UUwfYfOYiLlJU2CgMTMUNgon/view?usp=drivesdk"
       }
     ],
     "id": "12"

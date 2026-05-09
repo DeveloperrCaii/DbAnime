@@ -3229,10 +3229,10 @@
     "studio": "Zexcs",
     "rating": 8.1,
     "views": "237,5K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-03",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-10",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -3259,6 +3259,11 @@
         "number": 5,
         "title": "Akane-banashi Eps5",
         "videoUrl": "https://drive.google.com/file/d/1p2cJ2xA0eiBw_kWsn5GUSijokpFBiQrI/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Akane-banashi Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1nqsV08DaFhLPhrhH2oZFOPCh3jeZBwYU/view?usp=drivesdk"
       }
     ],
     "id": "60"

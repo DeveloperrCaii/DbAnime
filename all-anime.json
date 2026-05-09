@@ -744,10 +744,10 @@
     "studio": "Juvenage",
     "rating": 7.2,
     "views": "1,3M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-02",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-10",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -774,6 +774,11 @@
         "number": 5,
         "title": "Kami no Niwatsuki Kusunoki-tei Eps5",
         "videoUrl": "https://drive.google.com/file/d/1oNICySXoeYQR2GeoneaLCSM-HmCrID9O/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Kami no Niwatsuki Kusunoki-tei Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1JrOakPuuVPVB6ZcKlhg4b9G4u6g7PAfE/view?usp=drivesdk"
       }
     ],
     "id": "15"

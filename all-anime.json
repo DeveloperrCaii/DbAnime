@@ -3271,8 +3271,8 @@
     "studio": "Bones Film",
     "rating": 7.97,
     "views": "1,6M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-02",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
@@ -3301,6 +3301,11 @@
         "number": 5,
         "title": "Yomi no Tsugai Eps5",
         "videoUrl": "https://drive.google.com/file/d/1BFG9gE7s-MNkv1iUco376kOEBO0sgOJ6/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Yomi no Tsugai Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1iC5oKIfBt2lNW1bkq2iK31PyBArc8S63/view?usp=drivesdk"
       }
     ],
     "id": "61"

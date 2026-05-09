@@ -3328,8 +3328,8 @@
     "studio": "Studio Flad",
     "rating": 6.17,
     "views": "2,4M",
-    "latestEpisode": 6,
-    "uploadDate": "2026-05-02",
+    "latestEpisode": 7,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
@@ -3363,6 +3363,11 @@
         "number": 6,
         "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? Eps6",
         "videoUrl": "https://drive.google.com/file/d/1LN1bVHF1pU6vnqqnp7RNu2-xZ62WN3uy/view?usp=drivesdk"
+      },
+      {
+        "number": 7,
+        "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? Eps7",
+        "videoUrl": "https://drive.google.com/file/d/1hg50d4m2XEV6D5ZlazN-Lmp3SwRtUYaC/view?usp=drivesdk"
       }
     ],
     "id": "62"

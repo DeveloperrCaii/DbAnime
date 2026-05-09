@@ -3178,10 +3178,10 @@
     "studio": "Soigne",
     "rating": 7.43,
     "views": "490,0K",
-    "latestEpisode": 4,
-    "uploadDate": "2026-05-01",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -3203,6 +3203,11 @@
         "number": 4,
         "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana Eps4",
         "videoUrl": "https://drive.google.com/file/d/11-cbmng6NBNwnB5S6glUzPp2CuyLvRmb/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1KPhplf9aeK-WKXVaDUI3Nckqb0mUg9oP/view?usp=drivesdk"
       }
     ],
     "id": "59"

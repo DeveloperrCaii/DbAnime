@@ -3467,8 +3467,8 @@
     "studio": "Brain's Base",
     "rating": 6.53,
     "views": "1,2M",
-    "latestEpisode": 4,
-    "uploadDate": "2026-05-02",
+    "latestEpisode": 5,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
     "scheduleStatus": "Menunggu Update",
     "isTrending": true,
@@ -3480,18 +3480,23 @@
       },
       {
         "number": 2,
-        "title": "Eps2",
+        "title": "Yowayowa Sensei Eps2",
         "videoUrl": "https://drive.google.com/file/d/1Gu_YjHIWPce-ucLp3ww2134qF9_rhoLz/view?usp=drivesdk"
       },
       {
         "number": 3,
-        "title": "Eps3",
+        "title": "Yowayowa Sensei Eps3",
         "videoUrl": "https://drive.google.com/file/d/1VQ6mxohcUm381LZHnsWqeEW9Bhf8gZ2Y/view?usp=drivesdk"
       },
       {
         "number": 4,
-        "title": "Eps4",
+        "title": "Yowayowa Sensei Eps4",
         "videoUrl": "https://drive.google.com/file/d/1eS4snA5OTWk5PnlUafJlmlQ4z3I1dxRI/view?usp=drivesdk"
+      },
+      {
+        "number": 5,
+        "title": "Yowayowa Sensei Eps5",
+        "videoUrl": "https://drive.google.com/file/d/1oMWnUQhu9K6F3qZg0wkegr_wSVBxtyOS/view?usp=drivesdk"
       }
     ],
     "id": "64"

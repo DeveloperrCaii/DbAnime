@@ -546,10 +546,10 @@
     "studio": "Studio KAI",
     "rating": 7.2,
     "views": "1,2M",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-03",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-10",
     "scheduleDay": "Minggu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -576,6 +576,11 @@
         "number": 5,
         "title": "Kanan-sama wa Akumade Choroi Eps5",
         "videoUrl": "https://drive.google.com/file/d/1g-v6cDNLRV8ODIP7Zx1a38rTbqYD2Mki/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Kanan-sama wa Akumade Choroi Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1ybUNWEDs-Z7uE7SkdDfhbuhsy-e64tpP/view?usp=drivesdk"
       }
     ],
     "id": "11"

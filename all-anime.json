@@ -3126,10 +3126,10 @@
     "studio": "Studio KAI",
     "rating": 6.53,
     "views": "535,7K",
-    "latestEpisode": 5,
-    "uploadDate": "2026-05-01",
+    "latestEpisode": 6,
+    "uploadDate": "2026-05-09",
     "scheduleDay": "Sabtu",
-    "scheduleStatus": "Menunggu Update",
+    "scheduleStatus": "Sudah Tayang",
     "isTrending": true,
     "episodes": [
       {
@@ -3156,6 +3156,11 @@
         "number": 5,
         "title": "Snowball Earth Eps5",
         "videoUrl": "https://drive.google.com/file/d/1UZc6OjntuIfl911FNyyndJDSLNol-7Pi/view?usp=drivesdk"
+      },
+      {
+        "number": 6,
+        "title": "Snowball Earth Eps6",
+        "videoUrl": "https://drive.google.com/file/d/1Qs8D5wl3rdrAacBRRm8puD_mjH28TVhk/view?usp=drivesdk"
       }
     ],
     "id": "58"
